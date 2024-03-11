@@ -1,7 +1,8 @@
 # MyLab
 SOC maison
 
-https://ibb.co/VQrHqvn
+![Untitled](https://github.com/Paraziteuh/MyLab/assets/123948801/85fd9e66-a577-4a4d-b095-1491d6057f1a)
+
 
 **1. Wazuh Agent:**
 
