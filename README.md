@@ -1,6 +1,8 @@
 # MyLab
 SOC maison
 
+https://ibb.co/VQrHqvn
+
 **1. Wazuh Agent:**
 
 - Installé sur les postes clients (Windows 10 dans ce cas), il surveille l'activité du système et envoie des événements à Wazuh Manager.
